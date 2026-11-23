@@ -21,8 +21,8 @@
   },
   "dependencies": {
     "@hono/node-server": "^1.19.13",
-    "@prisma/adapter-pg": "7.8.0",
-    "@prisma/client": "7.8.0",
+    "@prisma/adapter-pg": "7.10.1",
+    "@prisma/client": "7.10.1",
     "@vercel/blob": "^2.5.0",
     "hono": "^4.13.13",
     "pg": "8.22.0",
